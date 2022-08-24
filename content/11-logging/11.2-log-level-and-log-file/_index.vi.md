@@ -7,7 +7,7 @@ pre = "<b>11.2. </b>"
 +++
 #### Log Level và Log File
 
-**Logging level** mặc định được đặt là **warning**. This can be changed so that we capture more or less information in the log files. Điều này có thể được thay đổi vì vậy chúng ta có thể nắm bắt được nhiều hơn hoặc ít hơn thông tin trong các **Log File**.
+**Logging level** mặc định được đặt là **warning**. Điều này có thể được thay đổi vì vậy chúng ta có thể nắm bắt được nhiều hơn hoặc ít hơn thông tin trong các **Log File**.
 
 Chúng ta sẽ thay đổi **Logging level** mặc định và lưu đầu ra của chúng ta thành tệp log cục bộ trên Cloud9 instance. Điều này được thực hiện bằng cách thêm dòng sau để cấu hình **Logging level**:
 ```
