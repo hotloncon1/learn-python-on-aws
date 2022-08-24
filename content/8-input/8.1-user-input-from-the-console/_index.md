@@ -77,6 +77,8 @@ python lab_5_console_input.py
 * In the line **Provide the text you want translating:**, input ```I am learning to code in AWS``` and press **Enter**
 * In the line **Provide the two letter source language code:**, input ```en``` and press **Enter**
 * In the line **Provide the two letter target language code:**, input ```fr``` and press **Enter**
+
+
 {{% notice info %}} 
 The program will wait for you to provide a value before asking for the next prompt.
 {{% /notice %}}

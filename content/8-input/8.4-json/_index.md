@@ -3,7 +3,7 @@ title = "JSON"
 date = 2020
 weight = 4
 chapter = false
-pre = "<b>4.4. </b>"
+pre = "<b>8.4. </b>"
 +++
 #### JSON
 [**JSON**](https://www.json.org/json-en.html) stands for Javascript Object Notation and is pronounced "jason". It is a very similar structure to python dictionaries and lists, with only a few exceptions. It is a very common format for computer programs to exchange information in using Application Programming Interfaces (APIs).

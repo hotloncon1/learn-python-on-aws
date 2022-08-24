@@ -19,7 +19,7 @@ The version may change to later versions of python for example 3.8 or 3.10.
 
 This is the interactive python environment. You can enter python commands directly into this and they will run as python. This is a great tool for quickly testing python commands.
 
-2. Try that now using an example. Type or copy the following into the python interactive environment after the **>>>**
+2. Try that now using an example. Type or copy the following into the python interactive environment after the **\>\>\>**
 ```
 some_string = "Hello Python"
 print(some_string)

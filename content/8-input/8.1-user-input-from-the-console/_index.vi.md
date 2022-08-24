@@ -3,7 +3,7 @@ title = "Nhập dữ liệu từ console"
 date = 2020
 weight = 1
 chapter = false
-pre = "<b>4.1. </b>"
+pre = "<b>8.1. </b>"
 +++
 #### Nhập dữ liệu từ console
 
@@ -77,6 +77,8 @@ python lab_5_console_input.py
 * Tại dòng **Provide the text you want translating:**, nhập ```I am learning to code in AWS``` và nhấn **Enter**
 * Tại dòng **Provide the two letter source language code:**, nhập ```en``` và nhấn **Enter**
 * Tại dòng **Provide the two letter target language code:**, nhập ```fr``` và nhấn **Enter**
+
+
 {{% notice info %}} 
 Chương trình sẽ đợi bạn cung cấp giá trị trước khi yêu cầu lời nhắc tiếp theo.
 {{% /notice %}}

@@ -19,7 +19,7 @@ Phiên bản của Python có thể thay đổi thành phiên bản sau của Py
 
 Trong **Interactive Mode**, chúng ta có thể nhập lệnh python trực tiếp vào và chúng sẽ chạy. Đây là một công cụ tuyệt vời để kiểm tra nhanh các lệnh python.
 
-2. Chúng ta cùng dùng thử **Interactive Mode** bằng cách nhập hoặc sao chép nội dung dưới đây vào **Interactive Mode** phía sau **>>>**
+2. Chúng ta cùng dùng thử **Interactive Mode** bằng cách nhập hoặc sao chép nội dung dưới đây vào **Interactive Mode** phía sau **\>\>\>**
 ```
 some_string = "Hello Python"
 print(some_string)

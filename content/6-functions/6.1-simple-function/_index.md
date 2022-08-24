@@ -55,4 +55,4 @@ greeting = hello_world()
 print(greeting)
 ```
 * Save.
-![Simple Function](/images/6-functions/6.1-simple-function/simple-function-007.png?featherlight=false&width=90pc)
+![Simple Function](/images/6-functions/6.1-simple-function/simple-function-005.png?featherlight=false&width=90pc)

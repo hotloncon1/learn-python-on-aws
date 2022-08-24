@@ -3,7 +3,7 @@ title = "Truyền dữ liệu từ tệp tin"
 date = 2020
 weight = 3
 chapter = false
-pre = "<b>4.3. </b>"
+pre = "<b>8.3. </b>"
 +++
 #### Truyền dữ liệu từ tệp tin
 
